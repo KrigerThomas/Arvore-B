@@ -1,0 +1,12 @@
+Endereço do No Raiz: 0x5e7b59073e10
+
+Árvore de ordem: 6
+0x5e7b59073e10 | 1 | 46 | -1 | -1 | -1 | -1 | 0x5e7b59073b70 | 0x5e7b59073e80 | NULL | NULL | NULL | NULL | 
+0x5e7b59073b70 | 2 | 17 | 33 | -1 | -1 | -1 | 0x5e7b59073b00 | 0x5e7b59073cc0 | 0x5e7b59073be0 | NULL | NULL | NULL | 
+0x5e7b59073b00 | 4 | 9 | 11 | 13 | 16 | -1 | NULL | NULL | NULL | NULL | NULL | NULL | 
+0x5e7b59073cc0 | 5 | 21 | 23 | 24 | 27 | 31 | NULL | NULL | NULL | NULL | NULL | NULL | 
+0x5e7b59073be0 | 3 | 35 | 36 | 41 | -1 | -1 | NULL | NULL | NULL | NULL | NULL | NULL | 
+0x5e7b59073e80 | 2 | 60 | 73 | -1 | -1 | -1 | 0x5e7b59073d30 | 0x5e7b59073c50 | 0x5e7b59073da0 | NULL | NULL | NULL | 
+0x5e7b59073d30 | 4 | 49 | 52 | 57 | 58 | -1 | NULL | NULL | NULL | NULL | NULL | NULL | 
+0x5e7b59073c50 | 5 | 62 | 64 | 66 | 68 | 72 | NULL | NULL | NULL | NULL | NULL | NULL | 
+0x5e7b59073da0 | 4 | 77 | 84 | 91 | 92 | -1 | NULL | NULL | NULL | NULL | NULL | NULL | 

@@ -1,0 +1,11 @@
+Endereço do No Raiz: 0x64a0eb34eda0
+
+Árvore de ordem: 4
+0x64a0eb34eda0 | 1 | 15 | -1 | -1 | 0x64a0eb34ebc0 | 0x64a0eb34ed40 | NULL | NULL | 
+0x64a0eb34ebc0 | 1 | 10 | -1 | -1 | 0x64a0eb34eb00 | 0x64a0eb34ec80 | NULL | NULL | 
+0x64a0eb34eb00 | 1 | 4 | -1 | -1 | NULL | NULL | NULL | NULL | 
+0x64a0eb34ec80 | 1 | 13 | -1 | -1 | NULL | NULL | NULL | NULL | 
+0x64a0eb34ed40 | 2 | 25 | 41 | -1 | 0x64a0eb34ece0 | 0x64a0eb34eb60 | 0x64a0eb34ec20 | NULL | 
+0x64a0eb34ece0 | 2 | 22 | 23 | -1 | NULL | NULL | NULL | NULL | 
+0x64a0eb34eb60 | 1 | 38 | -1 | -1 | NULL | NULL | NULL | NULL | 
+0x64a0eb34ec20 | 2 | 50 | 60 | -1 | NULL | NULL | NULL | NULL | 
